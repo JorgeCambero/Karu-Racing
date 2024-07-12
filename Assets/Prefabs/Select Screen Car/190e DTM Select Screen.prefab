@@ -1,0 +1,110 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &6540838209246669128
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 4ca387ef4a919e141b2d4e352516e385, type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4ca387ef4a919e141b2d4e352516e385, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 11.836605
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4ca387ef4a919e141b2d4e352516e385, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.00000011920929
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4ca387ef4a919e141b2d4e352516e385, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -8.63427
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4ca387ef4a919e141b2d4e352516e385, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4ca387ef4a919e141b2d4e352516e385, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4ca387ef4a919e141b2d4e352516e385, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4ca387ef4a919e141b2d4e352516e385, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4ca387ef4a919e141b2d4e352516e385, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4ca387ef4a919e141b2d4e352516e385, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4ca387ef4a919e141b2d4e352516e385, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -6925564499817370788, guid: 4ca387ef4a919e141b2d4e352516e385, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 53931c02abe3e0f4b84d5580d4be901f, type: 2}
+    - target: {fileID: -4683669308469848369, guid: 4ca387ef4a919e141b2d4e352516e385, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 9d84a3a839aabf043a48c00717fe86ed, type: 2}
+    - target: {fileID: 205030529756421233, guid: 4ca387ef4a919e141b2d4e352516e385, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 53931c02abe3e0f4b84d5580d4be901f, type: 2}
+    - target: {fileID: 919132149155446097, guid: 4ca387ef4a919e141b2d4e352516e385, type: 3}
+      propertyPath: m_Name
+      value: car3.1 Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 1163588770411002264, guid: 4ca387ef4a919e141b2d4e352516e385, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 53931c02abe3e0f4b84d5580d4be901f, type: 2}
+    - target: {fileID: 6196589461425326944, guid: 4ca387ef4a919e141b2d4e352516e385, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 53931c02abe3e0f4b84d5580d4be901f, type: 2}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 4ca387ef4a919e141b2d4e352516e385, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 8837072496272584721}
+  m_SourcePrefab: {fileID: 100100000, guid: 4ca387ef4a919e141b2d4e352516e385, type: 3}
+--- !u!1 &6198308113733260313 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 4ca387ef4a919e141b2d4e352516e385, type: 3}
+  m_PrefabInstance: {fileID: 6540838209246669128}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &8837072496272584721
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6198308113733260313}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 29dda5d3138d2c641868a7755539d423, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  powerTrain: {fileID: 11400000, guid: 2fb1f82e379cec140b3f6932c250ac10, type: 2}
+  carName: 190e DTM
+  enginePos: Front
+  hp: 370
+  selectScreenPos: {x: 0, y: 0.7222221, z: 0}
+  selectScreenScale: {x: 0.2, y: 11.11111, z: 0.2}
+  carModel: {fileID: 6198308113733260313}

@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d1ac43e4861b5c42a604af520882494, type: 3}
+  m_Name: 190e DTM
+  m_EditorClassIdentifier: 
+  tqCurve:
+  - rpm: 950
+    torque: 103
+  - rpm: 1500
+    torque: 115
+  - rpm: 2000
+    torque: 120
+  - rpm: 2500
+    torque: 125
+  - rpm: 3000
+    torque: 137
+  - rpm: 3500
+    torque: 148
+  - rpm: 4000
+    torque: 175
+  - rpm: 4500
+    torque: 180
+  - rpm: 5000
+    torque: 189
+  - rpm: 5500
+    torque: 191
+  - rpm: 6000
+    torque: 221
+  - rpm: 6500
+    torque: 225
+  - rpm: 7000
+    torque: 241
+  - rpm: 7500
+    torque: 247
+  - rpm: 8000
+    torque: 246
+  - rpm: 8500
+    torque: 244
+  - rpm: 9000
+    torque: 237
+  - rpm: 9500
+    torque: 232
+  - rpm: 10000
+    torque: 203
+  engineInertia: 13

@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d1ac43e4861b5c42a604af520882494, type: 3}
+  m_Name: 205 T16
+  m_EditorClassIdentifier: 
+  tqCurve:
+  - rpm: 950
+    torque: 76.9
+  - rpm: 1500
+    torque: 163.8
+  - rpm: 2000
+    torque: 240.5
+  - rpm: 2500
+    torque: 307
+  - rpm: 3000
+    torque: 363.2
+  - rpm: 3500
+    torque: 409.2
+  - rpm: 4000
+    torque: 445
+  - rpm: 4500
+    torque: 470.6
+  - rpm: 5000
+    torque: 485.9
+  - rpm: 5500
+    torque: 491
+  - rpm: 6000
+    torque: 489.7
+  - rpm: 6500
+    torque: 473.6
+  - rpm: 7000
+    torque: 451.5
+  - rpm: 7500
+    torque: 421.4
+  - rpm: 8000
+    torque: 355.6
+  engineInertia: 6

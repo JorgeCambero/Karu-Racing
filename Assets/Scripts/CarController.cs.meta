@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 69b066c94ec3d0e43adcdfe3d0bb4ca3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - engineSound: {instanceID: 0}
+  - myActions: {fileID: -944628639613478452, guid: 8188b17119f7b9e4ca2e7cdba5888e29, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

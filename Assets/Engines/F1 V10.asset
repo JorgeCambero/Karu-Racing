@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d1ac43e4861b5c42a604af520882494, type: 3}
+  m_Name: F1 V10
+  m_EditorClassIdentifier: 
+  tqCurve:
+  - rpm: 1000
+    torque: 51.765
+  - rpm: 1500
+    torque: 66.237
+  - rpm: 2000
+    torque: 81.462
+  - rpm: 2500
+    torque: 97.203
+  - rpm: 3000
+    torque: 113.378
+  - rpm: 3500
+    torque: 129.745
+  - rpm: 4000
+    torque: 145.46
+  - rpm: 4500
+    torque: 159.891
+  - rpm: 5000
+    torque: 173.221
+  - rpm: 5500
+    torque: 187.606
+  - rpm: 6000
+    torque: 204.952
+  - rpm: 6500
+    torque: 225.556
+  - rpm: 7000
+    torque: 245.838
+  - rpm: 7500
+    torque: 262.287
+  - rpm: 8000
+    torque: 272.27
+  - rpm: 8500
+    torque: 275.242
+  - rpm: 9000
+    torque: 276.336
+  - rpm: 9500
+    torque: 280.919
+  - rpm: 10000
+    torque: 292.046
+  - rpm: 10500
+    torque: 307.472
+  - rpm: 11000
+    torque: 324.234
+  - rpm: 11500
+    torque: 339.884
+  - rpm: 12000
+    torque: 352.383
+  - rpm: 12500
+    torque: 360.017
+  - rpm: 13000
+    torque: 362.271
+  - rpm: 13500
+    torque: 361.936
+  - rpm: 14000
+    torque: 360.648
+  - rpm: 14500
+    torque: 358.681
+  - rpm: 15000
+    torque: 356.08
+  - rpm: 15500
+    torque: 352.884
+  - rpm: 16000
+    torque: 349.126
+  - rpm: 16500
+    torque: 344.948
+  - rpm: 17000
+    torque: 340.902
+  - rpm: 17500
+    torque: 337.195
+  - rpm: 18000
+    torque: 332.501
+  - rpm: 18500
+    torque: 328.838
+  - rpm: 19000
+    torque: 301.5
+  - rpm: 19500
+    torque: 279.396
+  - rpm: 19500
+    torque: 279.396
+  - rpm: 20000
+    torque: 223.703
+  engineInertia: 25

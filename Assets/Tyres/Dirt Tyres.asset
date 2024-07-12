@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9789f0d117a752746b6876cc3ecf8458, type: 3}
+  m_Name: Dirt Tyres
+  m_EditorClassIdentifier: 
+  tyreName: Dirt Tyres
+  fexSlip: 0.2
+  fexValue: 0.8
+  fasSlip: 0.7
+  fasValue: 0.6
+  fnormStiff: 1
+  fwetStiff: 0.8
+  fsnowStiff: 0.5
+  fDexSlip: 0.25
+  fDexValue: 0.7
+  fDasSlip: 0.6
+  fDasValue: 0.6
+  sexSlip: 0.2
+  sexValue: 0.8
+  sasSlip: 0.5
+  sasValue: 0.6
+  snormStiff: 1
+  swetStiff: 0.8
+  ssnowStiff: 0.4
+  sDexSlip: 0.2
+  sDexValue: 0.7
+  sDasSlip: 0.5
+  sDasValue: 0.5
